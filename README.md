@@ -23,6 +23,12 @@ my food and have a small farm with:
 - 2 goats
 - and a bunch of cats. :)
 
+## I love Rocket League
+
+This is the best game!
+
+![Rocket League scoreboard](https://github.com/CodeBootCamp13/MarkdownPortfolio/blob/main/20210908221831_1.jpg?raw=true)
+
 ## Contact
 
 You can contact me at any of the following places:
