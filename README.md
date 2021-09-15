@@ -27,7 +27,7 @@ my food and have a small farm with:
 
 This is the best game!
 
-![Rocket League scoreboard](https://github.com/CodeBootCamp13/MarkdownPortfolio/blob/main/20210908221831_1.jpg?raw=true)
+![Rocket League scoreboard](https://raw.githubusercontent.com/CodeBootCamp13/MarkdownPortfolio/main/20210908222656_1.jpg?raw=true)
 
 ## Contact
 
